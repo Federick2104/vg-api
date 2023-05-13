@@ -195,6 +195,7 @@
             "game": "Star Wars: Knights of the Old Republic",
             "orientation": "Lesbian",
             "tag": ["","",""],
+            "iamge": "https://staticdelivery.nexusmods.com/images/234/51895551-1526659366.png",
             "desc": ""
         },
         {
@@ -212,7 +213,7 @@
             "game":"League of Legends",
             "orientation":"Lesbian",
             "tag": ["","",""],
-            "image": "https://w0.peakpx.com/wallpaper/43/625/HD-wallpaper-vi-league-of-legends.jpg",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_29.jpg",
             "desc" : ""
         }
     ]
