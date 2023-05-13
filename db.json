@@ -1,0 +1,220 @@
+{
+    "vg":[
+        {
+            "id": "0",
+            "name": "Caitlyn",
+            "game": "League of Legends",
+            "orientation": "Lesbian",
+            "tag": ["","",""],
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_0.jpg",
+            "desc": "Caitlyn is a champion in the popular online multiplayer game League of Legends. She is a ranged marksman character known for her long-range attacks and high damage output. Caitlyn specializes in controlling the battlefield with her traps and net ability, and her ultimate, Ace in the Hole, allows her to deal massive damage to a single target from a long distance. She excels at harassing enemies in the early game and is considered a strong laning phase champion."
+        },
+        {
+            "id": "1",
+            "name": "Graves",
+            "game": "League of Legends",
+            "orientation": "Gay",
+            "tag": ["","",""],
+            "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt5796e3d258e95471/5e83cb29cfad926479634951/Graves_00_Base-Cigar.jpg?quality=90&width=1215",
+            "desc": "Graves is a champion in the game League of Legends. He is a versatile ranged AD carry or jungler known for his burst damage and sustained damage output. Graves wields a shotgun, allowing him to deal damage in a cone in front of him. He has a unique passive called New Destiny, which grants him bonus armor and magic resistance when he engages in combat. Graves' abilities include End of the Line, a skillshot that deals damage and can be detonated for additional burst, and Smoke Screen, which creates an area of fog that slows and reduces enemy vision. His ultimate, Collateral Damage, fires a projectile that explodes upon hitting an enemy champion, dealing damage to all enemies in its path. Graves' playstyle emphasizes aggressive early game pressure and skirmishing."
+        },
+        {
+            "id": "2",
+            "name": "Nami",
+            "game": "League of Legends",
+            "orientation": "Bisexual",
+            "tag": ["","",""],
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_0.jpg",
+            "desc": "Nami is a support champion in the game League of Legends. She is a versatile enchanter who excels at providing healing, crowd control, and utility to her team. Nami's abilities revolve around manipulating water to empower her allies and hinder her enemies. Her passive, Surging Tides, enhances the movement speed of herself and nearby teammates with her abilities. Nami can heal and empower her allies with her W ability, Ebb and Flow, which bounces between allies and enemies, healing allies and damaging enemies. Her Aqua Prison ability is a skillshot that immobilizes enemies, setting them up for follow-up attacks. Nami's ultimate ability, Tidal Wave, sends a massive wave that knocks up and slows enemies in its path. Nami is a strong pick for teams looking for a supportive champion who can sustain and control teamfights."
+        },
+        {
+            "id": "3",
+            "name": "K'Sante",
+            "game": "League of Legends",
+            "orientation": "Gay or bi",
+            "tag": ["","",""],
+            "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt15d3facea57e5b7e/634613111338101198fce129/K_Sante-Base-Splash.jpg",
+            "desc": ""
+        },
+        {
+            "id": "4",
+            "name": "Tracer",
+            "game": "Overwatch",
+            "orientation": "Lesbian",
+            "tag": ["","",""],
+            "image": "https://images5.alphacoders.com/690/thumb-1920-690653.png",
+            "desc": "Tracer is a hero in the game Overwatch. She is a highly mobile damage hero known for her speed and agility. Tracer's unique ability is Blink, which allows her to quickly teleport a short distance in the direction she is moving, providing her with exceptional mobility and evasiveness. She also has Recall, an ability that allows her to return to her previous location and restore her health and ammunition. Tracer's primary weapon is her Pulse Pistols, dual-wielded rapid-fire pistols that deal damage at close range. Her ultimate ability, Pulse Bomb, is a sticky explosive that attaches to enemies or surfaces and detonates after a short delay, dealing significant damage to nearby targets. Tracer's playstyle revolves around flanking enemies, harassing backlines, and quickly eliminating vulnerable targets. Her fast-paced and unpredictable nature make her a challenging hero to master but also a potent threat in skilled hands."
+        },
+        {
+            "id": "5",
+            "name": "Ellie",
+            "game": "The Last of Us",
+            "orientation": "Lesbian",
+            "tag": ["","",""],
+            "image": "https://images.pushsquare.com/1f9f24718cff7/the-last-of-us-2-how-many-chapters-are-there.large.jpg",
+            "desc": "Ellie is a central character in the video game series 'The Last of Us.' She is a young girl who becomes a key protagonist in the post-apocalyptic world depicted in the game. Ellie is known for her resourcefulness, bravery, and resilience. She possesses a unique immunity to the infection that has devastated humanity, making her a vital asset in the quest for a cure. Throughout the series, players follow Ellie's journey as she forms a bond with the main protagonist, Joel, and faces numerous challenges while navigating dangerous environments and hostile factions. Ellie's character development and emotional depth have made her a beloved and iconic figure in gaming."
+        },
+        {
+            "id": "6",
+            "name": "Dorian Pavus",
+            "game": "Dragon Age: Inquisition",
+            "orientation": "Gay",
+            "tag": ["","",""],
+            "image": "https://i.ytimg.com/vi/AL8ea35s-zA/maxresdefault.jpg",
+            "desc": "Dorian Pavus is a companion character in the Dragon Age series of video games, specifically in Dragon Age: Inquisition. He is a mage and hails from the nation of Tevinter, known for its powerful and often controversial use of magic. Dorian is a complex and witty character who possesses a strong sense of morality and a desire to reform the oppressive practices of his homeland. He is openly gay and faces discrimination within Tevinter due to his sexual orientation. As a mage, Dorian specializes in offensive spells and is proficient in fire magic. He also has access to abilities that manipulate time and space. Dorian's personal quest explores his strained relationship with his family and the conflict between his desire for change and his loyalty to his heritage. Overall, Dorian is a fan-favorite character known for his charm, humor, and unique perspective on the world of Thedas."
+        },
+        {
+            "id": "7",
+            "name": "Sera",
+            "game": "Dragon Age: Inquisition",
+            "orientation": "Lesbian",
+            "tag": ["","",""],
+            "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/11/Dragon-Age-Sera-Inquisition.jpg",
+            "desc": "Sera is a companion character in the Dragon Age series, specifically in Dragon Age: Inquisition. She is a rogue and a member of a group called the Friends of Red Jenny, which aims to disrupt the established order and help the downtrodden. Sera is known for her unconventional behavior, irreverent humor, and disdain for authority. She often expresses her views through pranks, mischief, and a general disregard for social norms. Sera is particularly passionate about fighting against oppression and inequality. In combat, she excels at ranged attacks and trap-setting, utilizing her bow and arrows to deal damage from a distance. Sera's personal quest delves into her background and motivations, exploring her connection to the Friends of Red Jenny and her own sense of justice. She is a polarizing character among players, but her unique perspective and unpredictable nature make her an intriguing addition to the Dragon Age universe."
+        },
+        {
+            "id": "8",
+            "name": "Jacob Frye",
+            "game": "Assassin's Creed Syndicate",
+            "orientation": "Pansexual",
+            "tag": ["","",""],
+            "image": "https://sm.ign.com/ign_ap/news/a/assassins-/assassins-creed-syndicate-jacob-frye-statue-up-for_y551.jpg",
+            "desc": "Jacob Frye is a character in the video game Assassin's Creed Syndicate. He is one of the two main protagonists alongside his twin sister, Evie Frye. Jacob is a skilled assassin and a member of the British Brotherhood of Assassins. He is characterized by his rebellious and brash personality, often favoring direct action and confrontation. Jacob is known for his combat skills, utilizing various weapons such as brass knuckles, kukri knives, and firearms. He is also adept at stealth and parkour, allowing him to navigate the city of London with agility and precision. Jacob's main objective in the game is to liberate London from the control of Templar forces and establish the Frye twins' influence in the criminal underworld. His story arc explores themes of justice, freedom, and the conflict between order and chaos. Jacob's dynamic personality and action-oriented approach make him a memorable protagonist in the Assassin's Creed series."
+        },
+        {
+            "id": "9",
+            "name": "Twisted Fate",
+            "game": "League of Legends",
+            "orientation": "Gay",
+            "tag": ["","",""],
+            "image": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt648f38bcfb9410c1/60ee13167897c2473be7c2c9/TwistedFate_0.jpg",
+            "desc": "Twisted Fate is a champion in the game League of Legends. He is a highly mobile mage and a master of cards and illusions. Twisted Fate's unique ability is his Pick a Card, which allows him to cycle through three different cards: blue (restores mana), red (deals bonus damage), and gold (stuns enemies). His ultimate ability, Destiny/Gate, reveals all enemy champions on the map for a short duration and allows him to teleport to any location. Twisted Fate excels at roaming and map control, using his ultimate to quickly join fights and gank other lanes. He is also a strong poker-themed burst mage, utilizing his Wild Cards ability to throw multiple cards in a straight line, damaging enemies in their path. Twisted Fate's playstyle requires good decision-making and map awareness to effectively support his team and make impactful plays across the map."
+        },
+        {
+            "id": "10",
+            "name": "Billie Lurk",
+            "game": "Dishonored: Death of the Outsider",
+            "orientation": "Queer",
+            "tag": ["","",""],
+            "image": "https://assetsio.reedpopcdn.com/news-videogiochi-dishonored-la-morte-dell-esterno-origine-poteri-di-billie-e-tanti-altri-dettagli-1498125518194.jpg",
+            "desc": "Billie Lurk is a character in the Dishonored series of video games. She first appears as a supporting character in Dishonored: The Knife of Dunwall and later takes on a central role in Dishonored: Death of the Outsider. Billie Lurk is an assassin and a former member of the Whalers, a group of skilled killers. Throughout the series, she forms a close relationship with the protagonist, Daud, and assists him in his missions. Billie Lurk is characterized by her resourcefulness, combat skills, and proficiency with stealth. In Dishonored: Death of the Outsider, she becomes the main playable character and embarks on a personal quest to eliminate the supernatural entity known as the Outsider. Billie possesses unique abilities, including Displace, which allows her to teleport, and Foresight, enabling her to see through walls and plan her movements strategically. Her story arc explores themes of redemption, revenge, and the consequences of one's actions. Billie Lurk is a compelling and multifaceted character in the Dishonored series."
+        },
+        {
+            "id": "11",
+            "name": "Ava",
+            "game": "Borderlands 3",
+            "orientation": "Lesbian",
+            "tag": ["","",""],
+            "image": "https://c4.wallpaperflare.com/wallpaper/384/350/430/digital-art-artwork-cyber-cyberpunk-neon-hd-wallpaper-preview.jpg",
+            "desc": "Ava is a character in the Borderlands video game series. She first appears in Borderlands 3 as a young, determined individual who becomes involved in the adventures of the Vault Hunters. Ava is portrayed as a headstrong and impulsive teenager who possesses a strong desire to prove herself and make a difference. Throughout the game, she develops a mentor-student relationship with the character Lilith, who takes Ava under her wing. As the story progresses, Ava becomes more involved in the fight against the antagonistic forces in the Borderlands universe. She plays a significant role in the narrative, particularly in the events surrounding the Crimson Raiders and their conflict with the Calypso Twins. Ava's character arc explores themes of growth, resilience, and the challenges of finding one's place in a chaotic world."
+        },
+        {
+            "id": "12",
+            "name": "Kanji Tatsumi",
+            "game": "Persona 4",
+            "orientation": "Bisexual",
+            "tag": ["","",""],
+            "image": "https://c4.wallpaperflare.com/wallpaper/563/359/771/video-game-persona-4-golden-kanji-tatsumi-wallpaper-preview.jpg",
+            "desc": "Kanji Tatsumi is a character from the video game Persona 4. He is a high school student and one of the playable characters in the game. Kanji is initially portrayed as a tough and intimidating delinquent with a fondness for sewing and crafts. He is often misunderstood due to his rough exterior and rumored interest in 'girly' hobbies. As the story unfolds, it is revealed that Kanji struggles with his own sexuality and wrestles with societal expectations of masculinity. This internal conflict becomes a central theme in his character development. Kanji wields a large folding chair as his weapon in battle and specializes in physical attacks. His Persona, Take-Mikazuchi, is an electric-based Persona that grants him lightning-based abilities. Kanji's character arc focuses on acceptance, self-discovery, and embracing one's true self. He learns to reconcile his tough exterior with his more vulnerable and sensitive side, ultimately becoming a loyal and valued member of the protagonist's team."
+        },
+        {
+            "id": "13",
+            "name": "Caithe",
+            "game": "Guild Wars 2",
+            "orientation": "Lesbian",
+            "tag": ["","",""],
+            "image": "https://c4.wallpaperflare.com/wallpaper/823/885/301/fantasy-art-guild-wars-2-caithe-video-games-wallpaper-preview.jpg",
+            "desc": "Caithe is a character in the game Guild Wars 2. She is a sylvari, which is a humanoid plant-like race in the game. Caithe is a member of the Firstborn, the first generation of sylvari, and plays a significant role in the game's storyline. She is a skilled thief and an important figure in the fight against the forces of darkness known as the Elder Dragons. Caithe wields dual daggers as her primary weapons and specializes in agile and stealthy combat. She possesses a deep connection to the Dream, a shared psychic realm among the sylvari, which grants her unique insights and abilities. Throughout the game, Caithe's loyalty and motivations are explored as she grapples with her past and the choices she has made. Her character arc delves into themes of identity, betrayal, and redemption. Caithe is a complex and intriguing character within the Guild Wars 2 universe."
+        },
+        {
+            "id": "14",
+            "name": "Samantha Traynor",
+            "game": "Mass Effect 3",
+            "orientation": "Lesbian",
+            "tag": ["","",""],
+            "image": "https://c4.wallpaperflare.com/wallpaper/176/144/878/mass-effect-commander-shepard-video-games-wallpaper-preview.jpg",
+            "desc": "Samantha Traynor is a character in the Mass Effect video game series. She first appears in Mass Effect 3 as a communications specialist aboard the Normandy SR-2, the player's primary spaceship. Samantha serves as the ship's yeoman and is responsible for coordinating communications, analyzing data, and assisting the crew. She is portrayed as intelligent, tech-savvy, and dedicated to her duties. Throughout the game, players have the opportunity to interact with Samantha, engage in conversations, and build a friendship or romantic relationship with her, depending on player choices. Samantha Traynor provides valuable insights, information, and support to the player's mission as they combat the Reaper threat and navigate the galaxy. Her character brings a human perspective and adds depth to the crew dynamics aboard the Normandy."
+        },
+        {
+            "id": "15",
+            "name": "Iron Bull",
+            "game": "Dragon Age: Inquisition",
+            "orientation": "Pansexual",
+            "tag": ["","",""],
+            "image": "https://c4.wallpaperflare.com/wallpaper/147/147/673/the-iron-bull-dragon-age-inquisition-wallpaper-preview.jpg",
+            "desc": "Iron Bull is a character in the game Dragon Age: Inquisition. He is a Qunari, a race of powerful and imposing beings with distinctive horns and muscular physiques. Iron Bull is a member of the Bull's Chargers, a renowned mercenary group. He serves as the group's leader and an important ally to the player character. Iron Bull is known for his imposing presence, boisterous personality, and his pragmatic approach to combat. He wields a massive two-handed weapon and excels in close-quarters combat. Iron Bull is also notable for his loyalty and unwavering adherence to the Qun, a strict code of conduct followed by his people. However, he is not entirely bound by tradition and possesses a more open-minded and adaptive outlook compared to other Qunari. Iron Bull's character development explores themes of identity, loyalty, and the tension between personal beliefs and cultural expectations. Depending on player choices, he can develop deep friendships or even engage in a romantic relationship with certain characters in the game."
+        },
+        {
+            "id": "16",
+            "name": "Sir Hammerlock",
+            "game": "Borderlands 2",
+            "orientation": "Gay",
+            "tag": ["","",""],
+            "image": "https://c4.wallpaperflare.com/wallpaper/161/46/375/borderlands-2-sir-hammerlock-action-shooter-wallpaper-preview.jpg",
+            "desc": "Sir Hammerlock is a character in the Borderlands series of video games. He is an eccentric British big game hunter and a prominent NPC (non-playable character) in the series. Sir Hammerlock is known for his sophisticated demeanor, love of hunting dangerous creatures, and extensive knowledge of wildlife. He provides missions and quests to the player, often involving the tracking and hunting of various creatures found throughout the game's world. Despite his refined manners, Sir Hammerlock has a dry sense of humor and a fondness for sarcasm. He typically wears a monocle and carries a cane, which conceals a hidden shotgun. Sir Hammerlock is a charismatic and knowledgeable character who adds a touch of class and humor to the chaotic world of Borderlands."
+        },
+        {
+            "id": "17",
+            "name": "Cremisius Aclassi",
+            "game": "Dragon Age: Inquisition",
+            "orientation": "Transgender",
+            "tag": ["","",""],
+            "image": "https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_dragon_age_inquisition_05_2560x1440.jpg&height=450&width=800&fill-to-fit&sharpen",
+            "desc": "Cremisius Aclassi, commonly known as Krem, is a character in the game Dragon Age: Inquisition. Krem is a member of the Bull's Chargers, a renowned mercenary group led by Iron Bull. He is a transgender man, and his story arc focuses on his personal journey of self-discovery, identity, and acceptance. Krem is portrayed as a skilled warrior, displaying exceptional combat prowess and tactical abilities. He is known for his loyalty, courage, and unwavering dedication to his comrades. Despite the challenges he has faced, Krem remains resilient and maintains a positive attitude. He is highly respected by the members of the Bull's Chargers and plays a significant role in their operations. Krem's character representation is widely praised for its inclusivity and thoughtful portrayal of transgender experiences within the Dragon Age universe.            "
+        },
+        {
+            "id": "18",
+            "name": "Senua",
+            "game": "Hellblade: Senua's Sacrifice",
+            "orientation": "Ambiguous",
+            "tag": ["","",""],
+            "image": "https://wallpaperaccess.com/full/197732.jpg",
+            "desc": "Senua is the main protagonist of the game Hellblade: Senua's Sacrifice. She is a Celtic warrior on a personal and harrowing journey through a mythological Norse underworld. Senua is portrayed as a deeply troubled individual who battles with psychosis and delusions, hearing voices and experiencing intense hallucinations. Her story revolves around her quest to rescue the soul of her deceased lover while confronting her inner demons and facing her own traumatic past. Senua is characterized by her resilience, determination, and fierce combat skills. The game explores themes of mental health, trauma, and self-discovery through Senua's psychological and emotional journey. Senua's character is highly regarded for its complex portrayal of mental illness and its immersive storytelling."
+        },
+        {
+            "id": "19",
+            "name": "Ellie",
+            "game": "Borderlands 2",
+            "orientation": "Lesbian",
+            "tag": ["","",""],
+            "image": "https://static.wikia.nocookie.net/borderlands/images/f/fe/BL2_rather_large_woman.jpeg/revision/latest?cb=20120226194651",
+            "desc": "Ellie is a recurring character in the Borderlands video game series. She is a mechanic and salvage expert known for her strong personality and larger-than-life physique. Ellie is the sister of Scooter, another beloved character in the series who runs the Catch-A-Ride vehicle stations. Like her brother, Ellie possesses a quirky sense of humor and a passion for all things vehicular. She often assists the player by providing vehicle upgrades, repairs, and customization options. Ellie is known for her straightforward and no-nonsense attitude, as well as her unwavering loyalty to her family and friends. Despite her imposing appearance, she has a kind heart and is always willing to lend a helping hand. Ellie's character adds a dose of humor, practicality, and mechanical expertise to the Borderlands universe."
+        },
+        {
+            "id": "21",
+            "name": "Zevran Arainai",
+            "game": "Dragon Age: Origins",
+            "orientation": "Bisexual",
+            "tag": ["","",""],
+            "image": "https://www.tomshw.it/files/2012/02/immagini/35957/dragon-age_t.jpg",
+            "desc": "Zevran Arainai is a character in the game Dragon Age: Origins. He is an elven rogue and an assassin by trade. Zevran is encountered early in the game as a potential companion for the player's character. He comes from a background of hardship and has a reputation as a skilled and charming rogue. Zevran is known for his wit, flirtatious nature, and a tendency to make lighthearted remarks even in dangerous situations. Despite his initially dubious loyalty, Zevran can become a valued member of the player's party through his proficiency in stealth and dual-wielding weapons. His character arc involves themes of redemption, trust, and the complexities of love and loyalty. Zevran's presence adds a touch of humor and romance to the Dragon Age: Origins experience, and his story offers insights into the elven society and the challenges they face in the game's world.            "
+        },
+        {
+            "id": "22",
+            "name": "Juhani",
+            "game": "Star Wars: Knights of the Old Republic",
+            "orientation": "Lesbian",
+            "tag": ["","",""],
+            "image": "https://w0.peakpx.com/wallpaper/144/588/HD-wallpaper-star-wars-lightsaber-video-game-sith-star-wars-darth-malak-star-wars-knights-of-the-old-republic.jpg",
+            "desc": "Juhani is a character in the game Star Wars: Knights of the Old Republic. She is a Cathar Jedi Knight who becomes an ally and potential companion for the player's character. Juhani's story revolves around her personal struggles with anger and hatred, stemming from a traumatic event in her past. As a result, she initially struggles to control her emotions and maintain her commitment to the Jedi Code. Juhani's character development involves themes of redemption, self-discovery, and overcoming inner turmoil. She possesses strong combat skills and wields a lightsaber as her primary weapon. Throughout the game, players have the opportunity to interact with Juhani, engage in conversations, and influence her path towards light or dark side tendencies. Juhani's character adds depth to the narrative and explores the challenges faced by Jedi in the Star Wars universe.            "
+        },
+        {
+            "id": "23",
+            "name": "Jack",
+            "game": "Mass Effect 2",
+            "orientation": "Pansexual",
+            "tag": ["","",""],
+            "image": "https://w0.peakpx.com/wallpaper/527/478/HD-wallpaper-jack-mass-effect-2-jack-armtattoes-mass-effect-2.jpg",
+            "desc": "Jack, also known as Subject Zero, is a character in the Mass Effect video game series. She first appears in Mass Effect 2 as a powerful biotic and a former prisoner of the notorious Cerberus organization. Jack is portrayed as a fierce and volatile individual with a troubled past. She has endured extensive physical and psychological experimentation, which has left her emotionally scarred and prone to outbursts of anger. Despite her rough exterior, Jack is a highly skilled and dangerous combatant, specializing in biotic abilities. The player has the opportunity to recruit Jack as a squadmate and delve into her personal story, exploring themes of trauma, identity, and the search for redemption. Through character interactions and player choices, Jack's character arc offers the possibility of growth, healing, and forming meaningful connections with others."
+        },
+        {
+            "id": "24",
+            "name": "Vi",
+            "game":"League of Legends",
+            "orientation":"Lesbian",
+            "tag": ["","",""],
+            "image": "https://w0.peakpx.com/wallpaper/43/625/HD-wallpaper-vi-league-of-legends.jpg",
+            "desc": "Vi is a character in the game League of Legends. She is a strong and explosive champion known for her physical strength and melee combat abilities. Vi is a brawler who relies on her fists and powerful gauntlets to deliver devastating punches and attacks. She is portrayed as a confident and determined individual with a rebellious streak. Vi's playstyle emphasizes aggressive engagements and close-range skirmishes, making her a formidable force in team fights. Her abilities, such as Vault Breaker and Assault and Battery, allow her to initiate fights, lock down enemies, and deal significant damage. Vi's character lore reveals a mysterious past as a former criminal enforcer who turned against her criminal syndicate to seek justice. She is recognized for her distinct personality, energetic attitude, and memorable catchphrase, Punch first, ask questions while punching!"
+        }
+    ]
+}
